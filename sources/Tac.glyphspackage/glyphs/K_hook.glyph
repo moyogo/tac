@@ -4,22 +4,6 @@ kernLeft = KO_H;
 kernRight = KO_R;
 layers = (
 {
-associatedMasterId = m01;
-layerId = "9CC0EAC0-E2EC-4A55-AE2F-6B2FC71ADADB";
-name = "Jan 30, 24 at 13:41";
-shapes = (
-{
-ref = K;
-},
-{
-pos = (662,0);
-ref = _leftcaphook.part;
-scale = (-1,1);
-}
-);
-width = 515;
-},
-{
 anchors = (
 {
 name = bottom;
@@ -38,8 +22,9 @@ name = top;
 pos = (258,554);
 }
 );
-layerId = m01;
-name = Bold;
+associatedMasterId = m01;
+layerId = "9CC0EAC0-E2EC-4A55-AE2F-6B2FC71ADADB";
+name = "Jan 30, 24 at 13:41";
 shapes = (
 {
 closed = 1;
@@ -79,8 +64,26 @@ nodes = (
 }
 );
 width = 515;
+},
+{
+layerId = m01;
+name = Bold;
+shapes = (
+{
+alignment = -1;
+ref = K;
+},
+{
+alignment = -1;
+pos = (662,0);
+ref = _leftcaphook.part;
+scale = (-1,1);
+}
+);
+width = 643;
 }
 );
 metricLeft = H;
+metricRight = T;
 unicode = 408;
 }
