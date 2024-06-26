@@ -5,15 +5,18 @@ layers = (
 layerId = m01;
 shapes = (
 {
+alignment = -1;
+pos = (139,0);
 ref = P;
 },
 {
-pos = (-148,0);
+pos = (-9,0);
 ref = _leftcaphook.part;
 }
 );
-width = 495;
+width = 634;
 }
 );
+metricLeft = T;
 unicode = 420;
 }
