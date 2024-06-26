@@ -1,0 +1,24 @@
+{
+glyphname = Lambdastroke;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "Lambda-latin";
+},
+{
+closed = 1;
+nodes = (
+(425,497,l),
+(414,543,l),
+(119,476,l),
+(131,430,l)
+);
+}
+);
+width = 472;
+}
+);
+unicode = 42972;
+}

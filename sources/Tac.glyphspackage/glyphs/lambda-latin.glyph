@@ -1,0 +1,15 @@
+{
+glyphname = "lambda-latin";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = lambda;
+}
+);
+width = 531;
+}
+);
+unicode = 42971;
+}
