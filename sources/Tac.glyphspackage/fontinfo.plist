@@ -451,6 +451,10 @@ value = "chamfered crossbar f and t";
 }
 );
 tag = ss03;
+},
+{
+code = "sub florin by florin.alt;";
+tag = aalt;
 }
 );
 fontMaster = (
