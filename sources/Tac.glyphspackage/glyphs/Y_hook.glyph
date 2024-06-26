@@ -40,8 +40,7 @@ name = topleft;
 pos = (18,554);
 }
 );
-layerId = m01;
-name = Bold;
+background = {
 shapes = (
 {
 closed = 1;
@@ -79,9 +78,24 @@ nodes = (
 );
 }
 );
-width = 472;
+};
+layerId = m01;
+name = Bold;
+shapes = (
+{
+ref = Y;
+},
+{
+alignment = -1;
+pos = (638,0);
+ref = _leftcaphook.part;
+scale = (-1,1);
 }
 );
-metricRight = Y;
+width = 619;
+}
+);
+metricLeft = Y;
+metricRight = T;
 unicode = 435;
 }
