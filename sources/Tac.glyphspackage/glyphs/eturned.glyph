@@ -7,12 +7,10 @@ layers = (
 layerId = m01;
 shapes = (
 {
-angle = 180;
-pos = (452,400);
-ref = e;
+ref = schwa;
 }
 );
-width = 452;
+width = 481;
 }
 );
 unicode = 477;
